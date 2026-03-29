@@ -43,15 +43,8 @@ To design systems and technologies that improve **health, sustainability, and qu
 
 ---
 
-## 🌐 Connect
-- LinkedIn: 
+## 🔗 My Digital Profiles
 
----
-
-<p align="center">
-"Engineering solutions inspired by life itself."
-</p>## 🔗 My Digital Profiles
-
-- GitHub
-- LinkedIn  
-- Kaggle
+- GitHub: https:https://github.com/akshata25boe10053-ux  
+- LinkedIn:https:inkedin.com/in/akshata-venugopal-779a543b9/
+- Kaggle:https:https://www.kaggle.com/akshata26007
