@@ -33,7 +33,7 @@ Bioengineering Student | Global Health | Systems Thinker
 
 ## 🚀 Current Focus
 - Building projects at the intersection of **biology + technology**
-- Developing a strong academic + research portfolio  
+- Developing a strong portfolio  
 - Exploring real-world bioengineering applications  
 
 ---
