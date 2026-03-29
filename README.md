@@ -46,5 +46,5 @@ To design systems and technologies that improve **health, sustainability, and qu
 ## 🔗 My Digital Profiles
 
 - GitHub: https:https://github.com/akshata25boe10053-ux  
-- LinkedIn:https:inkedin.com/in/akshata-venugopal-779a543b9/
+- LinkedIn: https://www.linkedin.com/in/akshata-venugopal-779a543b9/
 - Kaggle:https:https://www.kaggle.com/akshata26007
